@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ooo-dev-code
-- 👀 I’m interested in Science
+- 👀 I’m interested in Science Y
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
