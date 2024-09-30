@@ -1,4 +1,4 @@
--> Hi I'm ooo-dev-code
+-> Hi I'm ooo-dev-code/n
 -> I'm have a big passion in quantum physics
 -> I'm currently learning Blender and js
 -> I'm trying to be good enough in code to get a good job for my CV 
