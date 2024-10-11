@@ -1,4 +1,4 @@
-->Hi, I am ooo-dev-code                                                                                             
+# ->Hi, I am ooo-dev-code                                                                                             
 -> I am a big lover of quantum physics. I learn more and more about it everyday and I enjoy it very much.                                    
 -> I am actually learning about Blender and js. I try to get skills to get proud of myself and to get a good job in the future.                                                      
 -> I am in college and that's pretty easy.                                                         
