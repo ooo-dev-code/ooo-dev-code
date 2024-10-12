@@ -22,6 +22,4 @@
 -> I am in college and that's pretty easy.                                                         
 -> My greatest wish is to be good enough in code to get a good job for my CV                                                                 
 ->  One day I ill be a good coder.                                                                                
--> Fun fact: This code has been changed by my code.  
-
-# I'm actually trying to Render this ReadMe with JavaScript so it will be better soon.
+-> Fun fact: This code has been changed by my code.
