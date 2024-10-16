@@ -1,3 +1,5 @@
+# I have encountered some health's issues so between 14 October and "unknown", i will code a bit less
+
 -><b> Hi, I am ooo-dev-code                                                                                                       
 
 -> I am a big lover of quantum physics. I learn more and more about it everyday and I enjoy it very much.                                              
