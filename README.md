@@ -10,7 +10,7 @@ Python is my favorite language and I know many in this language things particula
 I also train myself to do all the things that I can do in python in JavaScript so every project that I have made in python, I can make it in Js.
 
 <i><strong>I'm actually learning React and Django.</strong></i></br>
-<i><strong>Contact me: <span></span> 👋.</strong></i>
+<i><strong>Contact me: <span></span> 👋.</strong></i></br>
 <i><strong>And give me stars: <span></span> 🌟.</strong></i>
 
 ![ooo-dev-code's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ooo-dev-code&theme=vue-dark&hide_border=false)
