@@ -9,7 +9,7 @@ Python is my favorite language and I know many in this language things particula
 
 I also train myself to do all the things that I can do in python in JavaScript so every project that I have made in python, I can make it in Js.
 
-<i><strong>I'm actually learning React and Django.</strong></i></br>
+<i><strong>I'm actually learning React, Django and Linux.</strong></i></br>
 <i><strong>Contact me: <span></span> 👋.</strong></i></br>
 <i><strong>Check My Portofolio: <span></span> 🌟.</strong></i>
 
