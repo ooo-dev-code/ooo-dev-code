@@ -3,7 +3,7 @@
 <i><h2>I'm in highschool and I've started this github account to get a good job for my resume.</br>
 I am a begginer developper who code principaly website and python programms to help me in my day. </h2></i>
 
-For example, I have created, in python, <b>a github shortway using selenium and a bot to rewrite my readme everyday that I have desactivated</b> ( both present in the pinned repository ) and <b>a TinyTask in tkinter</b> ( present in my repositories ) who's not very complex but useful for a game that my little brother is playing ( yes, that's a cheat but it's fun ).
+For example, I have created, in python, <b>a github shortway using selenium and a bot to rewrite my readme everyday that I have desactivated</b> ( both present in the pinned repository ) and <b>a TinyTask in tkinter</b> ( present in my repositories ) who's not very complex but useful for a game that my little brother is playing ( yes, that's a cheat but it's fun ). 
 
 Python is my favorite language and I know many in this language things particularly in data science and web developpement. I'm actually learning to do computer vision and machine learning.
 I also train myself to do all the things that I can do in python in JavaScript so every project that I have made in python, I can make it in Js.
