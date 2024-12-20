@@ -16,3 +16,5 @@ I also train myself to do all the things that I can do in python in JavaScript s
 ![ooo-dev-code's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ooo-dev-code&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <img src="Capture d'écran 2024-11-19 212055.png" />
+
+crying
