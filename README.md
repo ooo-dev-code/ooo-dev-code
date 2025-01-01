@@ -12,5 +12,7 @@ I also train myself to do all the things that I can do in python in JavaScript s
 <i><strong>Contact me: <span></span> 👋.</strong></i></br>
 <i><strong>Check My Portofolio: <span></span> 🌟.</strong></i>
 
+![ooo-dev-code's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ooo-dev-code&theme=vue-dark&hide_border=false)
+![ooo-dev-code's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ooo-dev-code&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <img src="Capture d'écran 2024-11-19 212055.png" />
