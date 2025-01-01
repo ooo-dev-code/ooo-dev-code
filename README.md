@@ -8,7 +8,7 @@ For example, I have created, in python, <b>a github shortway using selenium and 
 Python is my favorite language and I know many in this language things particularly in data science and web developpement. I'm actually learning to do computer vision and machine learning.
 I also train myself to do all the things that I can do in python in JavaScript so every project that I have made in python, I can make it in Js.
 
-<i><strong><u>I'm actually learning Django and Java.</u></strong></i></br>
+<i><strong><u>I'm actually learning GO and Java.</u></strong></i></br>
 <i><strong>Contact me: <span></span> 👋.</strong></i></br>
 <i><strong>Check My Portofolio: <span></span> 🌟.</strong></i>
 
