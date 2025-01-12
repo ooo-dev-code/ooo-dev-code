@@ -5,6 +5,7 @@ I am a begginer developper who code principaly website and python programms to h
  
 For example, I have created, in python, <b>a github shortway using selenium and a bot to rewrite my readme everyday ( that I have desactivated )</b> ( both present in Mini projects ) and <b>a TinyTask in tkinter</b> ( present in my repositories ) who's not very complex but useful for a game that my little brother is playing ( yes, that's a cheat but it's fun ). </br> 
 I also do frontend and backend projects like a <b>School Management System</b> and my <b>Portfolio</b>.
+Finally, I create games in Java like a <b>Game engine</b> and a <b>SpaceInvaders</b> game
 
 Python is my favorite language and I know many things in this language things particularly in data science and web developpement. I'm actually learning to do computer vision and machine learning.
 
