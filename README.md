@@ -3,8 +3,8 @@
 <i><h2>I'm in highschool and I've started this github account to get a good job for my resume.</br> 
 I am a begginer developper who code principaly website and python programms to help me in my day. </h2></i> 
  
-For example, I have created, in python, <b>a github shortway using selenium and a bot to rewrite my readme everyday ( that I have desactivated )</b> ( both present in Mini projects ) and <b>a TinyTask in tkinter</b> ( present in my repositories ) who's not very complex but useful for a game that my little brother is playing ( yes, that's a cheat but it's fun ). 
-I also do frontend and backend projects like a School Management System and my Portfolio.
+For example, I have created, in python, <b>a github shortway using selenium and a bot to rewrite my readme everyday ( that I have desactivated )</b> ( both present in Mini projects ) and <b>a TinyTask in tkinter</b> ( present in my repositories ) who's not very complex but useful for a game that my little brother is playing ( yes, that's a cheat but it's fun ). </br> 
+I also do frontend and backend projects like a <b>School Management System</b> and my <b>Portfolio</b>.
 
 Python is my favorite language and I know many things in this language things particularly in data science and web developpement. I'm actually learning to do computer vision and machine learning.
 
