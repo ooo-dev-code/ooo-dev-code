@@ -1,15 +1,17 @@
  # <b>Hi, I am ooo-dev-code. </b>  |  <u> Go check my Portofolio !</u>          
     
-<i><h2>I'm in highschool and I've started this github account to get a good job for my resume.</br> 
-I am a begginer developper who code principaly website and python programms to help me in my day. </h2></i> 
- 
-For example, I have created, in python, <b>a github shortway using selenium and a bot to rewrite my readme everyday ( that I have desactivated )</b> ( both present in Mini projects ) and <b>a TinyTask in tkinter</b> ( present in my repositories ) who's not very complex but useful for a game that my little brother is playing ( yes, that's a cheat but it's fun ). </br> 
-I also do frontend and backend projects like a <b>School Management System</b> and my <b>Portfolio</b>.</br> 
-Finally, I create games in Java like a <b>Game engine</b> and a <b>SpaceInvaders</b> game
+<i><h2>I'm a high school student and I started this GitHub account to build a strong resume for future job opportunities.</h2></i>
+I'm a beginner developer with a focus on web development and Python programming. I create projects to help me with everyday tasks and expand my skills.
 
-Python is my favorite language and I know many things in this language things particularly in data science and web developpement. I'm actually learning to do computer vision and machine learning.
+For example, I created a Python program using Selenium to create a shortcut for GitHub and a bot that rewrites my README every day (though I’ve currently deactivated it). I also built a simple game helper tool for my younger brother, called TinyTask in Tkinter (available in my repositories), which may be a cheat but it's fun!
 
-<i><strong><u>I'm actually learning GO and C++.</u></strong></i></br>
-<i><strong>Check My Portofolio: <span></span> 🌟.</strong></i>
+In addition to these, I’ve worked on several full-stack projects such as a School Management System and my Portfolio website.
+
+I also develop games in Java, such as a Game Engine and a Space Invaders clone.
+
+Python is my favorite language, and I’m particularly interested in data science and web development. Currently, I’m diving into computer vision and machine learning.
+
+<i><strong><u>Currently learning: GO and C++.</u></strong></i>
+<i><strong>Check My Portfolio: 🌟</strong></i>
 
 ![ooo-dev-code's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ooo-dev-code&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)<img src="Capture d'écran 2025-01-08 135957.png"  width="308" />
