@@ -14,4 +14,4 @@ Python is my favorite language, and I’m particularly interested in data scienc
 <i><strong><u>Currently learning: GO and C++.</u></strong></i>
 <i><strong>Check My Portfolio: 🌟</strong></i>
 
-![ooo-dev-code's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ooo-dev-code&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)<img src="Capture d'écran 2025-01-13 030532.png"  width="308" />
+![ooo-dev-code's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ooo-dev-code&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)<img src="Capture d'écran 2025-01-13 030532.png"  width="300" />
