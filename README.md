@@ -1,4 +1,4 @@
- # <b>Hi, I am ooo-dev-code. </b>  |  <u> Go check my Portofolio !</u>               
+ # <b>Hi, I am ooo-dev-code. </b>  |  <u> Go check my Portofolio !</u>                
             
 <i><h2>I'm a high school student and I started this GitHub account to build a strong resume for future job opportunities.</h2></i>
 I'm a beginner developer with a focus on web development and Python programming. I create projects to help me with everyday tasks and expand my skills. 
